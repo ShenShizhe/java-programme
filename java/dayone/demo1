@@ -1,4 +1,4 @@
-public class w {
+public class demo1{
 	public static void main(String[] args) {
 		String name1="iphone6";
 		String name2="小米5";
