@@ -1,4 +1,4 @@
-public class q {
+public class demo0 {
 	public static void main(String[] args) {
 		
 		String name="张三";
