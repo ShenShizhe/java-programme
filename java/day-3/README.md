@@ -35,14 +35,15 @@
 
 		if(value<1) {
 			System.out.println("Y的值为："+value);
-		}else if(1<=value&&value<10) {
+		}
+		else if(1<=value&&value<10){
 			value=3*value-2;
 			System.out.println("Y的值为："+value);
-		
-	}else{
-		value=4*value;
-		System.out.println("Y的值为："+value);
-
+		}
+		else{
+			value=4*value;
+			System.out.println("Y的值为："+value);
+		}
 ```
 #### demo5
 
