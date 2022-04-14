@@ -24,5 +24,25 @@
 - 程序要求：父亲的身高与母亲的身高、小孩的性别、是否喜爱体育锻炼和是否有良好的卫生饮食习惯也从键盘上输入，最终输出预测的身高
 
 #### demo4
+- 计算数学表达式
+   - 输入一个数，如果小于1
+      - 直接输出
+   - 如果大于1，小于10
+      - 则输出三倍减去2后的值
+   - 否则
+      - 输出四倍该数的值
+```
+
+		if(value<1) {
+			System.out.println("Y的值为："+value);
+		}else if(1<=value&&value<10) {
+			value=3*value-2;
+			System.out.println("Y的值为："+value);
+		
+	}else{
+		value=4*value;
+		System.out.println("Y的值为："+value);
+
+```
 #### demo5
 
