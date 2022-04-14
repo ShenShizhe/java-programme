@@ -1,4 +1,4 @@
-public class demo6 {
+public class Demo6 {
 	
 	/*随机产生200个三位的正整数，按每行10个数输出
 	 * 统计其中的偶数和奇数
