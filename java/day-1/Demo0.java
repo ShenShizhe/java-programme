@@ -1,4 +1,4 @@
-public class demo0 {
+public class Demo0 {
 	public static void main(String[] args) {		
 		String name="张三";
 		String sex="男";
