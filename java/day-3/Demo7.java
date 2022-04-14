@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Scanner in =new Scanner(System.in);
-public class Student {
+public class Demo7 {
 	public static void main(String[] args) {
 		//定义一个Student，sNo(学号)、sName(姓名)、sSex(性别)、sAge(年龄)、sJava()成绩
 		Scanner in=new Scanner(System.in);
