@@ -17,15 +17,15 @@
 #### Demo0 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo0.java)
 
 
-1. 计算1……100的和,for循环
+- 计算1……100的和,for循环
 ```
   		int sum=0;
-  		for(int i=1;i<=100;i++) {			
+  		for(int i=1;i<=100;i++) {
   		sum+=i;
-  		}			
-```		
+  		}
+```
 
-2. 计算1……100的和，while循环
+- 计算1……100的和，while循环
 
 ```
     int sum=0;
@@ -34,7 +34,7 @@
 			sum+=i;
 			i++;
 		}
-```	
+```
 
 3. 1~100不能被3整除的数的和
 
