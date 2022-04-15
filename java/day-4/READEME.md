@@ -2,7 +2,7 @@
 
 ## 循环结构
 
-#### Demo0（https://github.com/ShenShizhe/programme/blob/main/java/day-4/Demo0.java）
+#### Demo0
 1. 计算1……100的和,for循环
 ```
   		int sum=0;
