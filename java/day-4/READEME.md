@@ -1,7 +1,5 @@
 # day-4 
-
 ## 循环结构
-
 #### Demo0 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo0.java)
 
 
@@ -12,7 +10,9 @@
   		sum+=i;
   		}			
 ```		
+
 2. 计算1……100的和，while循环
+
 ```
     int sum=0;
 	  int i=1;
@@ -20,16 +20,20 @@
 			sum+=i;
 			i++;
 		}
-```				
+```	
+
 3. 1~100不能被3整除的数的和
+
 ```
       int sum=0;
       for(int i=1;i<=100;i++) {
       if(i%3!=0) 
           sum+=i;
       }	
-```		
+```	
+
 4. 计算1……10的阶层和(1！+2！……9！+10！)
+
 ```
 		long t=1,sum=0;
 		for(int i=1;i<=10;i++) {
@@ -46,8 +50,6 @@
 		 
 #### Demo2 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo2.java)
 
-
-
 ```
 	/*do{
 	 * 循环操作
@@ -56,7 +58,9 @@
 	 * 选执行操作再判断
 	 * */
 ```	
+
 1. 先考试，再判断成绩是否合格！
+
 ```
 		Scanner in=new Scanner(System.in);
 		int score=0;
@@ -66,7 +70,9 @@
 		}while(score<60);
 		System.out.println("人才啊！居然通过了！！");
 ```
+
 2. 随机产生1……100的随机数，用户输入数据来猜，系统给出提示(大了，小了)，最后统计次数
+
 ```
 		Scanner in=new Scanner(System.in);
 		int n=(int)(Math.random()*100+1);//1……100的随机数
