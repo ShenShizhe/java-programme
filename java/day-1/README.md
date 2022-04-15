@@ -1,6 +1,6 @@
 # day-1
 ## 变量的声明和使用
-#### Demo0:
+#### Demo0: (https://github.com/ShenShizhe/programme/blob/main/java/day-1/Demo0.java)
 - 声明变量保存性别、姓名和身高，输出如下
 - 姓名是：张三
 - 性别是：男
