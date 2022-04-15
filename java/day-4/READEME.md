@@ -2,7 +2,7 @@
 
 ## 循环结构
 
-#### Demo0
+#### Demo0 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo0.java)
 1. 计算1……100的和,for循环
 ```
   		int sum=0;
@@ -42,13 +42,13 @@
 		}
 ```
 
-#### Demo1
+#### Demo1 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo1.java)
 - 求两个数的最大公约数和最小公倍数
 	- 获取用户输入的两个数 
 		1. 最大公约数：例如24, 18，最大公约数是6
 		2. 最小公倍数：例如24 18，最小公倍数72
 		 
-#### Demo2
+#### Demo2 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo2.java)
 
 
 
@@ -88,21 +88,21 @@
 		System.out.println("17张牌！你能猜对???真有你的，居然猜了"+count+"次，厉害啊！！");
 ```
 
-#### Demo3
+#### Demo3 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo3.java)
 - 编一个程序，输出所有的三位水仙花数，（如153=13+53+33）
-#### Demo4
+#### Demo4 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo4.java)
 - 操场上有学生排队（人数少于200）
 	- 如果三个人一组则多1人
 	- 如果四个人一组则多2人
 	- 如果五个人一组则多3人
 - 问共有多少人？
-#### Demo5
+#### Demo5 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo5.java)
 - 编一个程序，从键盘输入10个数，要求找出最小数和最大数
-#### Demo6
+#### Demo6 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo6.java)
 - 计算1-2+3-4+5-6+……+99-100的和
-#### Demo7
+#### Demo7 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo7.java)
 - 编写Java程序计算一下1～100的所有整数中出现多少次数字9
-#### Demo8
+#### Demo8 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo8.java)
 - 完数
 	- 例如：6=1+2+3
 		- 求1~1000的完数
