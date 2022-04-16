@@ -100,4 +100,8 @@
 - 新建一个类Caculator,这个类包含常见的加、减、乘、除运算
 	- 要求分别写四个方法，完成这四种运算。
 	- 在主函数中，输入两个数字，以及操作符号，根据符号进行计算
+#### [Function](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Function.java)
+- 新建一个类function,用于求一元二次方程ax2+bx+c=0的根
+	- 该类中包含一个方法root(int a,int b,int c)
+	- 一元二次方程的求根公式为:x=(-b±√(b^2-4ac))/2a
 
