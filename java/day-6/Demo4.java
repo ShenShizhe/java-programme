@@ -1,6 +1,6 @@
 import java.util.Arrays;
 public class Demo4 {
-	//2、定义一个整型数组{55,45,5,44,2,6,56,15,4,12}，找出数组中的最大值和最小值
+	//定义一个整型数组{55,45,5,44,2,6,56,15,4,12}，找出数组中的最大值和最小值
 	public static void main(String[] args) {
 				int [] a= {55,45,5,44,2,6,56,15,4,12};							
 				int max=a[0];
