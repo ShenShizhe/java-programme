@@ -1,6 +1,6 @@
 import java.util.Arrays;
-public class demo4 {
-	//2¡¢¶¨ÒåÒ»¸öÕûĞÍÊı×é{55,45,5,44,2,6,56,15,4,12}£¬ÕÒ³öÊı×éÖĞµÄ×î´óÖµºÍ×îĞ¡Öµ
+public class Demo4 {
+	//2ã€å®šä¹‰ä¸€ä¸ªæ•´å‹æ•°ç»„{55,45,5,44,2,6,56,15,4,12}ï¼Œæ‰¾å‡ºæ•°ç»„ä¸­çš„æœ€å¤§å€¼å’Œæœ€å°å€¼
 	public static void main(String[] args) {
 				int [] a= {55,45,5,44,2,6,56,15,4,12};							
 				int max=a[0];
@@ -9,8 +9,8 @@ public class demo4 {
 					if(max<=a[i]) max=a[i];
 					if(min>=a[i]) min=a[i];
 				}
-				System.out.println("×î´óÖµ£º"+max);
-				System.out.println("×îĞ¡Öµ£º"+min);
+				System.out.println("æœ€å¤§å€¼ï¼š"+max);
+				System.out.println("æœ€å°å€¼ï¼š"+min);
 		
 	}
 }
