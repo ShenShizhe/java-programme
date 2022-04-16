@@ -91,4 +91,9 @@
 - 创建Rectangle类，添加属性width、height；
 	- 在Rectangle类中添加两种方法计算矩形的周长和面积(均使用有返回值无参的方法)；
 	- 最后在main()中实例化一个Rectangle对象，并调用两个方式计算一个矩形的周长和面积
+#### [Vehicle](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Vehicle.java)
+- 请定义一个交通工具(Vehicle)的类，其中有: 
+	- 属性：速度(speed) 
+	- 方法:设置速度setSpeed(int speed)，加速speedUp(),减速speedDown()等等. 其中加速使速度+10，减速使速度-15。
+		- 最后在main()中实例化一个交通工具对象，并通过方法给它初始化speed的值，然后各进行1次加速和减速，并打印出最终的速度
 
