@@ -1,20 +1,20 @@
 import java.util.Arrays;
 
-public class demo2 {
+public class Demo2 {
 	public static void main(String[] args) {
 		
-		//ÅÅĞò
+		//æ’åº
 		int [] a= {32,33,45,34,56,67,86,27,3,56,76,85,69};
 		Arrays.sort(a);
 		for (int i = 0; i < a.length; i++) {
 			System.out.print(a[i]+" ");
 		}
 		
-		//²éÕÒ(Èç¹ûĞ¡ÓÚ0£¬ÔòËµÃ÷Ã»ÓĞ¸ÃÖµ)
+		//æŸ¥æ‰¾(å¦‚æœå°äº0ï¼Œåˆ™è¯´æ˜æ²¡æœ‰è¯¥å€¼)
 		int index=Arrays.binarySearch(a, 86);
-		System.out.println("²éÕÒ½á¹û£º"+index);
+		System.out.println("æŸ¥æ‰¾ç»“æœï¼š"+index);
 		
-		//×î´óÖµºÍ×îĞ¡Öµ
+		//æœ€å¤§å€¼å’Œæœ€å°å€¼
 		int max=a[0];
 		int min=a[0];
 		
@@ -22,7 +22,7 @@ public class demo2 {
 			if(max<=a[i]) max=a[i];
 			if(min>=a[i]) min=a[i];
 		}
-		System.out.println("×î´óÖµ£º"+max);
-		System.out.println("×îĞ¡Öµ£º"+min);
+		System.out.println("æœ€å¤§å€¼ï¼š"+max);
+		System.out.println("æœ€å°å€¼ï¼š"+min);
 	}
 }
