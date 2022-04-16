@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class s1 {
+public class Demo8 {
 	
 
 	
@@ -8,7 +8,7 @@ public class s1 {
 		
 		
 		Scanner in=new Scanner(System.in);
-		System.out.println("ÇëÊäÈëÑ§ÉúµÄ³É¼¨£º");
+		System.out.println("è¯·è¾“å…¥å­¦ç”Ÿçš„æˆç»©ï¼š");
 		int score=in.nextInt();
 		
 		if(90<=score&&score<=100) 
@@ -28,7 +28,7 @@ public class s1 {
 			System.out.println("E");
 		  
 	  else 
-			System.out.println("ÄúµÄÊäÈëÓĞÎó£¡£¡");
+			System.out.println("æ‚¨çš„è¾“å…¥æœ‰è¯¯ï¼ï¼");
 		  
 		
 		
