@@ -1,6 +1,7 @@
 # day-6
 ## 数组的定义与使用
 #### Demo0 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo0.java)
+- 数组的声明
 #### Demo1 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo1.java)
 #### Demo2 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo2.java)
 #### Demo3 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo3.java)
