@@ -1,21 +1,21 @@
 import java.util.Scanner;
 
-public class demo1 {
+public class Demo1 {
 	public static void main(String[] args) {
-		//¼ÆËãÎå¸öÑ§ÉúµÄÆ½¾ù·Ö
-		//1¡¢¶¨Òå³¤¶ÈÎª5µÄÕûĞÍÊı×é
-		//2¡¢ÎªÊı×é¸³Öµ
-		//3¡¢ÇóºÍ
-		//4¡¢ÇóÆ½¾ù·Ö
+		//è®¡ç®—äº”ä¸ªå­¦ç”Ÿçš„å¹³å‡åˆ†
+		//1ã€å®šä¹‰é•¿åº¦ä¸º5çš„æ•´å‹æ•°ç»„
+		//2ã€ä¸ºæ•°ç»„èµ‹å€¼
+		//3ã€æ±‚å’Œ
+		//4ã€æ±‚å¹³å‡åˆ†
 		Scanner in=new Scanner(System.in);
 		int [] a2=new int [5];
 		for (int i = 0; i < a2.length; i++) {
 			a2[i]=in.nextInt();
 		}
-		//Êä³ö		
+		//è¾“å‡º		
 		int sum=0;
 		for (int i = 0; i < a2.length; i++) {
-			sum+=a2[i]; //ÇóºÍ
+			sum+=a2[i]; //æ±‚å’Œ
 		}				
 		System.out.println(sum/a2.length);
 		
