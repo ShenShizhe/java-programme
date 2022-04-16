@@ -96,4 +96,8 @@
 	- 属性：速度(speed) 
 	- 方法:设置速度setSpeed(int speed)，加速speedUp(),减速speedDown()等等. 其中加速使速度+10，减速使速度-15。
 		- 最后在main()中实例化一个交通工具对象，并通过方法给它初始化speed的值，然后各进行1次加速和减速，并打印出最终的速度
+#### [Caculator](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Caculator.java)
+- 新建一个类Caculator,这个类包含常见的加、减、乘、除运算
+	- 要求分别写四个方法，完成这四种运算。
+	- 在主函数中，输入两个数字，以及操作符号，根据符号进行计算
 
