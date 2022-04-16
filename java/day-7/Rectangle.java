@@ -16,7 +16,7 @@ public class Rectangle {
 		rectangle.width=9.9;
 		rectangle.height=9.9;
 		
-		System.out.println("面积是："+rectangle.Area());
-		System.out.println("周长是："+rectangle.Perimeter());
+		System.out.println("脙忙禄媒脢脟拢潞"+rectangle.Area());
+		System.out.println("脰脺鲁陇脢脟拢潞"+rectangle.Perimeter());
 	}
 }
