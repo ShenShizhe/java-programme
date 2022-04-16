@@ -1,7 +1,7 @@
 
-public class demo6 {
-	//4������һ������30������Ԫ�ص����飬��˳�����θ�ֵΪ��2��ʼ��ż����2,4,6,8��.����
-	//Ȼ����˳��ÿ5�������һ��ƽ��ֵ�������õ�ƽ��ֵ���δ������һ�������в����
+public class Demo6 {
+	//4、定义一个含有30个整型元素的数组，按顺序依次赋值为从2开始的偶数（2,4,6,8….）。
+	//然后按照顺序每5个数求出一个平均值，将所得的平均值依次存放在另一个数组中并输出
 	
 	public static void main(String[] args) {
 		int [] a=new int [30];
@@ -10,7 +10,7 @@ public class demo6 {
 			a[i]=(i+1)*2;
 		}
 		double[] b=new double [6];
-		//ÿ�������һ��ƽ��ֵ  0_4\5_9\10_14
+		//每五个数求一个平均值  0_4\5_9\10_14
 		
 		int sum=0;
 		int index=0;
