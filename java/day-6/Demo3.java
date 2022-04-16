@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Demo3 {
-	//1、定义一个长度为10的整型数组，从键盘为数组赋值，并求出数组的平均值。
+	//定义一个长度为10的整型数组，从键盘为数组赋值，并求出数组的平均值
 	
 	public static void main(String[] args) {
 		
