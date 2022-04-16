@@ -4,7 +4,7 @@
 - and corresponding documentation instructions for each part, I hope you can learn something from it!
 
 ## day-1 
-- (https://github.com/ShenShizhe/java-programme/tree/main/java/day-1)
+- [变量的声明和使用](https://github.com/ShenShizhe/java-programme/tree/main/java/day-1)
 
 ## day-2 
 - (https://github.com/ShenShizhe/java-programme/tree/main/java/day-2)
