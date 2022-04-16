@@ -1,8 +1,6 @@
 # day-4 
 ## 循环结构
 #### [Demo0](https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo0.java)
-
-
 1. 计算1……100的和,for循环
 ```
   		int sum=0;
@@ -10,9 +8,7 @@
   		sum+=i;
   		}
 ```
-
 2. 计算1……100的和，while循环
-
 ```
     int sum=0;
 	  int i=1;
@@ -21,7 +17,6 @@
 			i++;
 		}
 ```	
-
 3. 1~100不能被3整除的数的和
 
 ```
@@ -31,7 +26,6 @@
           sum+=i;
       }	
 ```	
-
 4. 计算1……10的阶层和(1！+2！……9！+10！)
 
 ```
@@ -41,7 +35,6 @@
 			sum+=t;
 		}
 ```
-
 #### [Demo1](https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo1.java)
 - 求两个数的最大公约数和最小公倍数
 	- 获取用户输入的两个数 
@@ -106,8 +99,7 @@
 - 编写Java程序计算一下1～100的所有整数中出现多少次数字9
 #### [Demo8](https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo8.java)
 - 完数
-	- 例如：6=1+2+3
-		- 求1~1000的完数
+	- 例如：6=1+2+3,求1~1000的完数
     
 
 
