@@ -13,7 +13,7 @@
 - [多重if](https://github.com/ShenShizhe/java-programme/tree/main/java/day-3)
 
 ## day-4 
-- (https://github.com/ShenShizhe/java-programme/tree/main/java/day-4)
+- [循环结构](https://github.com/ShenShizhe/java-programme/tree/main/java/day-4)
 
 ## day-5 
 - (https://github.com/ShenShizhe/java-programme/tree/main/java/day-5)
