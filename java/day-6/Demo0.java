@@ -19,7 +19,7 @@ public class Demo0 {
 		int [] a1= {1,2,3,4,5};
 		System.out.println("a1的第一个元素是："+a1[0]);
 		System.out.println("a1的第四个元素是："+a1[3]);
-//		System.out.println("a1的第六个元素是："+a1[5]);
+		//System.out.println("a1的第六个元素是："+a1[5]);
 		
 		//从键盘上为数组赋值
 		Scanner in=new Scanner(System.in);
