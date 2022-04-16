@@ -1,13 +1,13 @@
 
-public class demo3 {
+public class Demo3 {
 	public static void main(String[] args) {
 //		for (int i = 0; i <5; i++) {
 //			System.out.println("**********");			
 //		}
 		
 		
-		//Íâ²ãiÑ­»·¿ØÖÆÐÐÊý
-		//ÄÚ²ãj¿ØÖÆÃ¿Ò»ÐÐµÄÊý
+		//å¤–å±‚iå¾ªçŽ¯æŽ§åˆ¶è¡Œæ•°
+		//å†…å±‚jæŽ§åˆ¶æ¯ä¸€è¡Œçš„æ•°
 //		for (int i = 0; i <5; i++) {
 //			for (int j = 0; j < 10; j++) {
 //				System.out.println("*");				
@@ -15,7 +15,7 @@ public class demo3 {
 //			System.out.println();
 //		}
 		
-		//Ê¹ÓÃÇ¶Ì×Ñ­»·ÓÃ*Êä³öÈý½ÇÐÎ
+		//ä½¿ç”¨åµŒå¥—å¾ªçŽ¯ç”¨*è¾“å‡ºä¸‰è§’å½¢
 		for (int i = 0; i <= 5; i++) {
 			for (int j = 0; j <=i ; j++) {
 				System.out.print("*"+" ");
