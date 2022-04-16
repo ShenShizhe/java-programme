@@ -1,20 +1,20 @@
 import java.util.Arrays;
 
-public class demo5 {
-	//3¡¢ÏÖÔÚ¶¨ÒåÈçÏÂµÄÒ»¸öÊı×é£ºint oldArr[]={1,3,4,5,0,0,6,6,0,5,4,7,6,7,0,5},ÒªÇó½«ÒÔÉÏÊı×éÖĞ²»Îª0µÄÖµ´æÈëÒ»¸öĞÂµÄÊı×é
+public class Demo5 {
+	//3ã€ç°åœ¨å®šä¹‰å¦‚ä¸‹çš„ä¸€ä¸ªæ•°ç»„ï¼šint oldArr[]={1,3,4,5,0,0,6,6,0,5,4,7,6,7,0,5},è¦æ±‚å°†ä»¥ä¸Šæ•°ç»„ä¸­ä¸ä¸º0çš„å€¼å­˜å…¥ä¸€ä¸ªæ–°çš„æ•°ç»„
 	
 	public static void main(String[] args) {
 		
 		int oldArr[]={1,3,4,5,0,0,6,6,0,5,4,7,6,7,0,5};	
-		//¼ÆËãÒ»ÏÂÊı×éÖĞ²»Îª0µÄÔªËØÓĞ¶àÉÙ
+		//è®¡ç®—ä¸€ä¸‹æ•°ç»„ä¸­ä¸ä¸º0çš„å…ƒç´ æœ‰å¤šå°‘
 		int n=0;
 		for (int i = 0; i < oldArr.length; i++) {
 			if(oldArr[i]>0)
 				n++;
 		}
 		int newArr[]=new int [n];
-		//±éÀúÖ®Ç°Êı×é£¬°Ñ²»Îª0µÄÔªËØ·ÅÈënewArr£¬×¢ÒânewArrÏÂ±êºÍoldArr²»ÊÇÍ¬Ò»¸ö
-		int index=0;//´ú±ínewArrµÄÏÂ±ê
+		//éå†ä¹‹å‰æ•°ç»„ï¼ŒæŠŠä¸ä¸º0çš„å…ƒç´ æ”¾å…¥newArrï¼Œæ³¨æ„newArrä¸‹æ ‡å’ŒoldArrä¸æ˜¯åŒä¸€ä¸ª
+		int index=0;//ä»£è¡¨newArrçš„ä¸‹æ ‡
 		
 		for (int i = 0; i < oldArr.length; i++) {
 			if(oldArr[i]>0) {
@@ -22,7 +22,7 @@ public class demo5 {
 				index++;
 			}
 		}
-		//Êä³önewArr
+		//è¾“å‡ºnewArr
 		for (int i = 0; i < newArr.length; i++) {
 			System.out.print(newArr[i]+" ");
 		}
