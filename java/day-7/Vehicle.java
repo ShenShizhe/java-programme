@@ -19,7 +19,7 @@ public class Vehicle {
 		vehicle.setSpeed(77.77);
 		vehicle.speedUp();
 		vehicle.speedDown();
-		System.out.println("�ٶ��ǣ�"+vehicle.speed);
+		System.out.println("ËÙ¶ÈÊÇ£º"+vehicle.speed);
 		
 		
 	}
