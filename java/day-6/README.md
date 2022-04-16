@@ -72,7 +72,6 @@
 				index++;
 			}
 		}
-
 ```
 
 #### Demo6 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo6.java)
