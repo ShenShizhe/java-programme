@@ -83,4 +83,8 @@
 ```
 	类名 对象 =new 类名 ();
 ```
-#### 
+#### [Book](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Book.java)
+- 创建一个书籍类Book，添加属性书名、作者和价格，添加介绍书方法Introduce()，输出书名、作者和价格
+	- 添加卖书的方法sellBook(int n)，规定买10本书以下不打折，买大于等于10本书打9折，买超过20本书打8折
+	- 最后在main()中实例化一个Book对象，并调用两个方法分别介绍书籍和购买书籍
+
