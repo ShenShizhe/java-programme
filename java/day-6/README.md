@@ -8,7 +8,7 @@
 2. 为数组赋值
 3. 求和
 4. 求平均分
-···
+```
 		Scanner in=new Scanner(System.in);
 		int [] a2=new int [5];
 		for (int i = 0; i < a2.length; i++) {
@@ -19,7 +19,7 @@
 		for (int i = 0; i < a2.length; i++) {
 			sum+=a2[i]; //求和
 		}
-···
+```
 #### Demo2 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo2.java)
 #### Demo3 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo3.java)
 #### Demo4 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo4.java)
