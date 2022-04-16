@@ -11,14 +11,12 @@
 ```
 		Scanner in=new Scanner(System.in);
 		int [] a2=new int [5];
-		for (int i = 0; i < a2.length; i++) {
+		for (int i = 0; i < a2.length; i++) 
 			a2[i]=in.nextInt();
-		}
 		//输出		
 		int sum=0;
-		for (int i = 0; i < a2.length; i++) {
+		for (int i = 0; i < a2.length; i++) 
 			sum+=a2[i]; //求和
-		}
 ```
 #### Demo2 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo2.java)
 - 对一个数组进行排序，并取出最大值和最小值
@@ -27,9 +25,8 @@
 	```	
 			int [] a= {32,33,45,34,56,67,86,27,3,56,76,85,69};
 			Arrays.sort(a);
-			for (int i = 0; i < a.length; i++) {
+			for (int i = 0; i < a.length; i++) 
 				System.out.print(a[i]+" ");
-			}
 	```
 	- 查找(如果小于0，则说明没有该值)
 	```
@@ -54,23 +51,17 @@
 		for (int i = 0; i < a2.length; i++) 
 			sum+=a2[i]; 						
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Demo4 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo4.java)
+- 定义一个整型数组{55,45,5,44,2,6,56,15,4,12}，找出数组中的最大值和最小值
+
+
+
+
+
+
+
+
+
 #### Demo5 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo5.java)
 #### Demo6 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo6.java)
 #### Demo7 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo7.java)
