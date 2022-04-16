@@ -104,7 +104,7 @@
 - 计算1-2+3-4+5-6+……+99-100的和
 #### [Demo7](https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo7.java)
 - 编写Java程序计算一下1～100的所有整数中出现多少次数字9
-#### Demo8 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo8.java)
+#### [Demo8](https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo8.java)
 - 完数
 	- 例如：6=1+2+3
 		- 求1~1000的完数
