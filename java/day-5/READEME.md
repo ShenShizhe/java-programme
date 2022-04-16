@@ -2,11 +2,11 @@
 ##
 #### Demo0 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo0.java)
 - 鸡兔同笼问题，头35，脚94
-#### Demo1
-#### Demo2
-#### Demo3
-#### Demo4
-#### Demo5
+#### Demo1 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo1.java)
+#### Demo2 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo2.java)
+#### Demo3 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo3.java)
+#### Demo4 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo4.java)
+#### Demo5 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo5.java)
 #### Demo6
 #### Demo7
 #### Demo8
