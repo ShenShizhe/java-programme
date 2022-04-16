@@ -23,7 +23,7 @@
 #### Demo2 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo2.java)
 - 对一个数组进行排序，并取出最大值和最小值
 
-* 排序
+** 排序
 ```	
 		int [] a= {32,33,45,34,56,67,86,27,3,56,76,85,69};
 		Arrays.sort(a);
@@ -31,7 +31,7 @@
 			System.out.print(a[i]+" ");
 		}
 ```
-* 查找(如果小于0，则说明没有该值)
+** 查找(如果小于0，则说明没有该值)
 ```
 		int index=Arrays.binarySearch(a, 86);
 		System.out.println("查找结果："+index);		
