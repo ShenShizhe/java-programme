@@ -12,7 +12,7 @@
 - 九九乘法表
 #### Demo5 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo5.java)
 - 从屏幕输入数字x，创造一个边长为x的等边三角形
-#### Demo6 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo5.java)
+#### Demo6 (https://github.com/ShenShizhe/java-programme/blob/main/java/day-5/Demo6.java)
 #### Demo7
 #### Demo8
 #### Demo9
