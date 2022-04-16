@@ -17,3 +17,6 @@
 
 ## day-5 
 - (https://github.com/ShenShizhe/java-programme/tree/main/java/day-5)
+
+## day-6 
+- (https://github.com/ShenShizhe/java-programme/tree/main/java/day-6)
