@@ -41,7 +41,6 @@
 			}
 	```
 #### Demo3 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo3.java)
-
 - 定义一个长度为10的整型数组，从键盘为数组赋值，并求出数组的平均值
 ```
 		int [] a2=new int [10];
@@ -53,16 +52,13 @@
 ```
 #### Demo4 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo4.java)
 - 定义一个整型数组{55,45,5,44,2,6,56,15,4,12}，找出数组中的最大值和最小值
-
-
-
-
-
-
-
-
-
 #### Demo5 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo5.java)
+- 现在定义如下的一个数组：int oldArr[]={1,3,4,5,0,0,6,6,0,5,4,7,6,7,0,5}
+- 要求将以上数组中不为0的值存入一个新的数组
+
+
+
+
 #### Demo6 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo6.java)
 #### Demo7 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo7.java)
 #### Demo8 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo8.java)
