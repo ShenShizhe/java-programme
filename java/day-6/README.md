@@ -95,4 +95,23 @@
 		}
 ```
 #### Demo7 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo7.java)
+
+- 三个数字1,2,3组成一个三位数且每个数字只出现一次
+- 有多少种方法，试着输出
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Demo8 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo8.java)
