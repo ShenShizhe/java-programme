@@ -2,7 +2,7 @@ public class Demo7 {
 static int count=0;
 public static void main(String[] args) {
 	//三个数字1,2,3组成一个三位数且每个数字只出现一次
-    //有多少种方法，试着输出n！
+    	//有多少种方法，试着输出！
 	
 	int[] a= {1,2,3,4,5,6,7,8,9};
 	
@@ -28,9 +28,9 @@ public static void allSort(int[]a,int p,int q) {
 			  swap(a,p,i);
 			  allSort(a,p+1,q);
 			  swap(a,p,i);
-		  }
-	  }
-}
+       }
+     }
+   }
 }
 
 
