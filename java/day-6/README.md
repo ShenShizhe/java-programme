@@ -44,6 +44,32 @@
 			}
 	```
 #### Demo3 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo3.java)
+
+- 定义一个长度为10的整型数组，从键盘为数组赋值，并求出数组的平均值
+```
+		int [] a2=new int [10];
+		for (int i = 0; i < a2.length; i++) 
+			a2[i]=in.nextInt();		
+		int sum=0;
+		for (int i = 0; i < a2.length; i++) 
+			sum+=a2[i]; 						
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Demo4 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo4.java)
 #### Demo5 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo5.java)
 #### Demo6 (https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo6.java)
