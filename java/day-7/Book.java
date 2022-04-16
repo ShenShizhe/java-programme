@@ -4,7 +4,7 @@ public class Book{
 	double price;	
 	
 	public void Introduce() {
-		System.out.println("\tÊéÃû£º"+this.name+"\t×÷Õß£º"+this.author+"\t¼Û¸ñ£º"+this.price);
+		System.out.println("\tä¹¦åï¼š"+this.name+"\tä½œè€…ï¼š"+this.author+"\tä»·æ ¼ï¼š"+this.price);
 	}
 	
 	public double sellBook(int n) {
@@ -19,15 +19,15 @@ public class Book{
 	}
 	public static void main(String[] args) {
 		Book book=new Book();
-		book.name="¶À¹Â¾Å½£";
-		book.author="Íô³Ï";
+		book.name="ç‹¬å­¤ä¹å‰‘";
+		book.author="æ±ªè¯š";
 		book.price=9.99;
 		
 		
 		book.Introduce();
 		
 		double sum=book.sellBook(8);
-		System.out.println("Êé¼®Âô³ö£º"+sum+"Ôª");
+		System.out.println("ä¹¦ç±å–å‡ºï¼š"+sum+"å…ƒ");
 	}
 	
 }
