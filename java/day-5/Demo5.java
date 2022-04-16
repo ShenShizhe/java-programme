@@ -1,17 +1,17 @@
 import java.util.Scanner;
 
-public class demo5 {
-//´ÓÆÁÄ»ÊäÈëÊı×Öx£¬´´ÔìÒ»¸ö±ß³¤ÎªxµÄµÈ±ßÈı½ÇĞÎ
+public class Demo5 {
+//ä»å±å¹•è¾“å…¥æ•°å­—xï¼Œåˆ›é€ ä¸€ä¸ªè¾¹é•¿ä¸ºxçš„ç­‰è¾¹ä¸‰è§’å½¢
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
-		System.out.println("ÇëÊäÈëÒ»¸öÊı£º");		
+		System.out.println("è¯·è¾“å…¥ä¸€ä¸ªæ•°ï¼š");		
 		int n=in.nextInt();		
 		for(int i=1;i <=n;i++) {	
-			//Êä³öÒ»¸ö¿Õ¸ñ
+			//è¾“å‡ºä¸€ä¸ªç©ºæ ¼
 			for (int j = 1; j <= n-i; j++) {
 				System.out.print(" ");				
 			}
-			//Êä³ö*
+			//è¾“å‡º*
 			for (int j = 1; j <= 2*i-1 ; j++) {
 				System.out.print("*");
 			}
