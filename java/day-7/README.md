@@ -1,7 +1,7 @@
 # day-7
 
 ## 类和对象
-#### Student (https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Student.java)
+#### [Student](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Student.java)
 
 - 类是描述现实中的学生，任何类都具有的属性和方法
 - 属性：类的固有特性，例如：学号、姓名、班级
