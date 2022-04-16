@@ -23,24 +23,24 @@ public class Caculator {
 		Scanner sc=new Scanner(System.in);
 		
 		Caculator caculator=new Caculator();
-		System.out.println("ÇëÊäÈëµÚÒ»¸öÊı£º");
+		System.out.println("è¯·è¾“å…¥ç¬¬ä¸€ä¸ªæ•°ï¼š");
 		double number1=sc.nextDouble();
-		System.out.println("ÇëÊäÈëµÚ¶ş¸öÊı£º");
+		System.out.println("è¯·è¾“å…¥ç¬¬äºŒä¸ªæ•°ï¼š");
 		double number2=sc.nextDouble();
-		System.out.println("ÇëÊäÈë²Ù×÷·û£º");
+		System.out.println("è¯·è¾“å…¥æ“ä½œç¬¦ï¼š");
 		char op=sc.next().charAt(0);
 		switch(op) {
 		case '+':
-			System.out.println("number1Óënumber2µÄºÍÎª£º"+caculator.add(number1,number2));
+			System.out.println("number1ä¸number2çš„å’Œä¸ºï¼š"+caculator.add(number1,number2));
 			break;
 		case '-':
-			System.out.println("number1Óënumber2µÄ²îÎª£º"+caculator.subtraction(number1,number2));
+			System.out.println("number1ä¸number2çš„å·®ä¸ºï¼š"+caculator.subtraction(number1,number2));
 			break;
 		case '*':
-			System.out.println("number1Óënumber2µÄ»ıÎª£º"+caculator.multiplication(number1,number2));
+			System.out.println("number1ä¸number2çš„ç§¯ä¸ºï¼š"+caculator.multiplication(number1,number2));
 			break;
 		case '/':
-			System.out.println("number1Óënumber2µÄÉÌÎª£º"+caculator.division(number1,number2));
+			System.out.println("number1ä¸number2çš„å•†ä¸ºï¼š"+caculator.division(number1,number2));
 			break;
 		}
 	
