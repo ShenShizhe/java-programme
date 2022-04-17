@@ -13,8 +13,9 @@
 - 有具体的问题
 - 有设计解决这个问题的流程
 - 有评价处理流程的课量化的指标
-#### [求阶乘]()
+#### [求阶乘](https://github.com/ShenShizhe/java-programme/blob/main/java/algorithm/Factorial.java)
 - 求1！+2！+3！+……+n!
+#### []()
 
 
 
