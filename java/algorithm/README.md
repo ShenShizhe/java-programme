@@ -1,7 +1,7 @@
 # algorithm
 ## 算法与数据结构
 *****
-#### [位运算](https://github.com/ShenShizhe/java-programme/blob/main/java/algorithm/Bit-operation.java)
+#### [位运算](https://github.com/ShenShizhe/java-programme/blob/main/java/algorithm/Bit_operation.java)
 - 将十进制数转化为三十二位的二进制数
 *****
 #### [什么是算法]()
