@@ -15,7 +15,7 @@
 - 有评价处理流程的课量化的指标
 #### [求阶乘](https://github.com/ShenShizhe/java-programme/blob/main/java/algorithm/Factorial.java)
 - 求1！+2！+3！+……+n!
-#### []()
-
+#### [选择排序]()
+- 将一个数组按照循序进行排序
 
 
