@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Factorial {
 	
 	public static long factorial(int n) {
@@ -15,5 +14,5 @@ public class Factorial {
 			System.out.println("请输入一个整数（n）");
 			int n  =in.nextInt();
 			System.out.println(factorial(n));
-		}
+	}
 }
