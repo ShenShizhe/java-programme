@@ -15,5 +15,5 @@
 #### [选择排序](https://github.com/ShenShizhe/java-programme/blob/main/java/algorithm/Selection_sort.java)
 - 将一个数组按照循序进行排序
 *****
-#### [冒泡排序]()
+#### [冒泡排序](https://github.com/ShenShizhe/java-programme/blob/main/java/algorithm/Bubble_sort.java)
 - 
