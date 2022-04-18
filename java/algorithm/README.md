@@ -29,5 +29,5 @@
 - 插入排序在实现上，通常采用in-place排序（即只需用到O(1)的额外空间的排序）
 - 因而在从后向前扫描过程中，需要反复把已排序元素逐步向后挪位，为最新元素提供插入空间
 *****
-#### [数据结构]()
+#### [数据结构](https://github.com/ShenShizhe/java-programme/blob/main/java/algorithm/data_structure.md)
 - 
