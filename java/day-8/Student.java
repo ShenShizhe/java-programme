@@ -1,14 +1,3 @@
-	//封装；外部不能访问私有的的属性
-	//This is face class act write of one
-	//关键词：private
-	
-	//如何给age属性赋值
-	//方法：setAge、getAge
-
-//构造方法的作用：初始化对象，简化代码
-//特点1 ：方法名和类名完全相同，且没有返回值
-//特点2:构造方法可以有多个
-//特点3：new 对象的时候，参数必须与构造方法一致
 public class Student {
 	private String name;
 	private String gender;
@@ -16,6 +5,7 @@ public class Student {
 	private  int chinese;
 	private  int math;
 	private  int english;
+	
 	//利用工具自动产生get/set方法
 	public String getName() {
 		return name;
