@@ -14,7 +14,7 @@
       - 特点3：new 对象的时候，参数必须与构造方法一致
 #### [Person](https://github.com/ShenShizhe/java-programme/blob/main/java/day-8/Person.java)  
 #### [Phone](https://github.com/ShenShizhe/java-programme/blob/main/java/day-8/Phone.java)
-#### [Light]()
-#### [Box]()
-#### [MyTime]()
+#### [Light](https://github.com/ShenShizhe/java-programme/blob/main/java/day-8/Light.java)
+#### [Box](https://github.com/ShenShizhe/java-programme/blob/main/java/day-8/Box.java)
+#### [MyTime](https://github.com/ShenShizhe/java-programme/blob/main/java/day-8/MyTime.java)
 
