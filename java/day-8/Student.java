@@ -1,14 +1,14 @@
-	//·â×°£»Íâ²¿²»ÄÜ·ÃÎÊË½ÓĞµÄµÄÊôĞÔ
+	//å°è£…ï¼›å¤–éƒ¨ä¸èƒ½è®¿é—®ç§æœ‰çš„çš„å±æ€§
 	//This is face class act write of one
-	//¹Ø¼ü´Ê£ºprivate
+	//å…³é”®è¯ï¼šprivate
 	
-	//ÈçºÎ¸øageÊôĞÔ¸³Öµ
-	//·½·¨£ºsetAge¡¢getAge
+	//å¦‚ä½•ç»™ageå±æ€§èµ‹å€¼
+	//æ–¹æ³•ï¼šsetAgeã€getAge
 
-//¹¹Ôì·½·¨µÄ×÷ÓÃ£º³õÊ¼»¯¶ÔÏó£¬¼ò»¯´úÂë
-//ÌØµã1 £º·½·¨ÃûºÍÀàÃûÍêÈ«ÏàÍ¬£¬ÇÒÃ»ÓĞ·µ»ØÖµ
-//ÌØµã2:¹¹Ôì·½·¨¿ÉÒÔÓĞ¶à¸ö
-//ÌØµã3£ºnew ¶ÔÏóµÄÊ±ºò£¬²ÎÊı±ØĞëÓë¹¹Ôì·½·¨Ò»ÖÂ
+//æ„é€ æ–¹æ³•çš„ä½œç”¨ï¼šåˆå§‹åŒ–å¯¹è±¡ï¼Œç®€åŒ–ä»£ç 
+//ç‰¹ç‚¹1 ï¼šæ–¹æ³•åå’Œç±»åå®Œå…¨ç›¸åŒï¼Œä¸”æ²¡æœ‰è¿”å›å€¼
+//ç‰¹ç‚¹2:æ„é€ æ–¹æ³•å¯ä»¥æœ‰å¤šä¸ª
+//ç‰¹ç‚¹3ï¼šnew å¯¹è±¡çš„æ—¶å€™ï¼Œå‚æ•°å¿…é¡»ä¸æ„é€ æ–¹æ³•ä¸€è‡´
 public class Student {
 	private String name;
 	private String gender;
@@ -16,7 +16,7 @@ public class Student {
 	private  int chinese;
 	private  int math;
 	private  int english;
-	//ÀûÓÃ¹¤¾ß×Ô¶¯²úÉúget/set·½·¨
+	//åˆ©ç”¨å·¥å…·è‡ªåŠ¨äº§ç”Ÿget/setæ–¹æ³•
 	public String getName() {
 		return name;
 	}
@@ -65,21 +65,21 @@ public class Student {
 		this.english = english;
 	}
 	
-	//Çó×Ü·Ö
+	//æ±‚æ€»åˆ†
 	public int total() {
 		return this.chinese+this.english+this.math;
 	}
 	
-	//ÇóÆ½¾ù·Ö
+	//æ±‚å¹³å‡åˆ†
 	public int avg() {
 		return total()/3;
 	}
 	
-	//¹¹Ôì·½·¨£¬ÎªĞÕÃû¸³Öµ
+	//æ„é€ æ–¹æ³•ï¼Œä¸ºå§“åèµ‹å€¼
 //	public Student(String name) {
 //		this.name = name;
 //	}
-	//ÎªĞÕÃû¡¢ĞÔ±ğ¡¢ÄêÁä¸³Öµ
+	//ä¸ºå§“åã€æ€§åˆ«ã€å¹´é¾„èµ‹å€¼
 //	public Student(String name,String gender,int age) {
 //		this.name = name;
 //		this.gender = gender;
@@ -92,7 +92,7 @@ public class Student {
 //		this.english = english;
 //	}
 	
-	//ÀûÓÃ¹¤¾ß²úÉú
+	//åˆ©ç”¨å·¥å…·äº§ç”Ÿ
 
 	public Student(String name, String gender, int age, int chinese, int math, int english) {
 		super();
