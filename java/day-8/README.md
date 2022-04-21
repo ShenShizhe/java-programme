@@ -13,7 +13,7 @@
       - 特点2:构造方法可以有多个
       - 特点3：new 对象的时候，参数必须与构造方法一致
 #### [Person](https://github.com/ShenShizhe/java-programme/blob/main/java/day-8/Person.java)  
-#### [Phone]()
+#### [Phone](https://github.com/ShenShizhe/java-programme/blob/main/java/day-8/Phone.java)
 #### [Light]()
 #### [Box]()
 #### [MyTime]()
