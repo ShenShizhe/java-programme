@@ -36,4 +36,4 @@
 
 ****
 >algorithm 
-> - [algorithm](https://github.com/ShenShizhe/java-programme/tree/main/java/algorithm)
+> - [算法和数据结构](https://github.com/ShenShizhe/java-programme/tree/main/java/algorithm)
