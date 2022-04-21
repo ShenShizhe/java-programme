@@ -31,9 +31,9 @@ public class Person {
 	}
 	
 	public static void main(String[] args) {
-		Person  p = new Person("ÉóÊÓÕß",20,"±±¾©ÊĞ³¯ÑôÇøº£µíÂ·Â·120ºÅ");
+		Person  p = new Person("å®¡è§†è€…",20,"åŒ—äº¬å¸‚æœé˜³åŒºæµ·æ·€è·¯è·¯120å·");
 		
-		System.out.println("ĞÕÃû£º"+p.getName()+",ÄêÁä£º"+p.getAge()+",¼ÒÍ¥×¡Ö·£º"+p.getAdder());
+		System.out.println("å§“åï¼š"+p.getName()+",å¹´é¾„ï¼š"+p.getAge()+",å®¶åº­ä½å€ï¼š"+p.getAdder());
 	}
 	
 }
