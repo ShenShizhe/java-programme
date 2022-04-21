@@ -30,10 +30,10 @@ public class MyTime {
 	}
 	
 	public void convert() {
-		//秒转分钟
+		//脙毛脳陋路脰脰脫
 		minute += second / 60;
 		second = second % 60;
-		//分钟转小时
+		//路脰脰脫脳陋脨隆脢卤
 		hour += minute / 60;
 		minute += minute % 60;
 	}
