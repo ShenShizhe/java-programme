@@ -22,17 +22,17 @@ public class Light {
 		this.watts = watts;
 		this.indicator = indicator;
 	}
-	//¿ªµÆ£¬½«µÆµÄ×´Ì¬ÖÃÎª¿ª
+	//å¼€ç¯ï¼Œå°†ç¯çš„çŠ¶æ€ç½®ä¸ºå¼€
 	public void switchOn() {
 		this.indicator = true;
 	}
-	//¹ØµÆ
+	//å…³ç¯
 	public void switchOff() {
 		this.indicator = false;
 	}
-	//Êä³öµÆµÄÍßÊıĞÅÏ¢ºÍ¿ª¹Ø×´Ì¬
+	//è¾“å‡ºç¯çš„ç“¦æ•°ä¿¡æ¯å’Œå¼€å…³çŠ¶æ€
 	public void printInfo() {
-		System.out.println("ÍßÊı"+watts+",µÆµÄ×´Ì¬£º"+indicator);
+		System.out.println("ç“¦æ•°"+watts+",ç¯çš„çŠ¶æ€ï¼š"+indicator);
 }
 	public static void main(String[] args) {
 //		Light p = new Light(12);
