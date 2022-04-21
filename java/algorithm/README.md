@@ -1,5 +1,4 @@
-# algorithm
-## 算法与数据结构
+# 算法与数据结构
 *****
 #### [位运算](https://github.com/ShenShizhe/java-programme/blob/main/java/algorithm/Bit_operation.java)
 - 程序中的所有数在计算机内存中都是以二进制的形式储存的。位运算就是直接对整数在内存中的二进制位进行操作
