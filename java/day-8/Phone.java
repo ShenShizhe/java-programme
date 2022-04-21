@@ -24,20 +24,20 @@ public class Phone {
 	}
 	
 	public void call() {
-		System.out.println("ÕıÔÚÊ¹ÓÃ¼Û¸ñÎª"+price+"ÔªµÄ"+brand+"ÊÖ»ú"+"´òµç»°");
+		System.out.println("æ­£åœ¨ä½¿ç”¨ä»·æ ¼ä¸º"+price+"å…ƒçš„"+brand+"æ‰‹æœº"+"æ‰“ç”µè¯");
 	}
 	
 	public void sendMessage() {
-		System.out.println("ÕıÔÚÊ¹ÓÃ¼Û¸ñÎª"+price+"ÔªµÄ"+brand+"ÊÖ»ú"+"·¢¶ÌĞÅ");
+		System.out.println("æ­£åœ¨ä½¿ç”¨ä»·æ ¼ä¸º"+price+"å…ƒçš„"+brand+"æ‰‹æœº"+"å‘çŸ­ä¿¡");
 	}
 	public void playGame() {
-		System.out.println("ÕıÔÚÊ¹ÓÃ¼Û¸ñÎª"+price+"ÔªµÄ"+brand+"ÊÖ»ú"+"ÍæÓÎÏ·");
+		System.out.println("æ­£åœ¨ä½¿ç”¨ä»·æ ¼ä¸º"+price+"å…ƒçš„"+brand+"æ‰‹æœº"+"ç©æ¸¸æˆ");
 	}
 	
 	public static void main(String[] args) {
-		Phone p1 = new Phone("Ğ¡Ã×9",2398);
-		Phone p2 = new Phone("Ğ¡Ã×8",1598);
-		Phone p3 = new Phone("ºìÃ×",998);
+		Phone p1 = new Phone("å°ç±³9",2398);
+		Phone p2 = new Phone("å°ç±³8",1598);
+		Phone p3 = new Phone("çº¢ç±³",998);
 		
 		p1.call();
 		p2.sendMessage();
