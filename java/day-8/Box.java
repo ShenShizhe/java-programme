@@ -45,9 +45,9 @@ public class Box {
 	
 	public static void main(String[] args) {
 		Box box = new Box(12,23,43);
-		System.out.println("体积是："+box.Volume());
+		System.out.println("脤氓禄媒脢脟拢潞"+box.Volume());
 		
-		System.out.println("表面积是："+box.Area());
+		System.out.println("卤铆脙忙禄媒脢脟拢潞"+box.Area());
 
 
 	}
