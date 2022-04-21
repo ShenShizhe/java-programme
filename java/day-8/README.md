@@ -1,5 +1,5 @@
 # day-8
-#### []()
+#### [Student](https://github.com/ShenShizhe/java-programme/blob/main/java/day-8/Student.java)
 - 封装；外部不能访问私有的的属性
 - 这是类的独特写法之一
 - 关键词：private
