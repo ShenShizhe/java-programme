@@ -1,8 +1,8 @@
 # day-6
 ## 数组的定义与使用
-#### [Demo0](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo0.java)
+#### [Demo0](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo0.java)
 - 数组的声明
-#### [Demo1](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo1.java)
+#### [Demo1](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo1.java)
 - 计算五个学生的平均分
 1. 定义长度为5的整型数组
 2. 为数组赋值
@@ -18,7 +18,7 @@
 		for (int i = 0; i < a2.length; i++) 
 			sum+=a2[i]; //求和
 ```
-#### [Demo2](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo2.java)
+#### [Demo2](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo2.java)
 - 对一个数组进行排序，并取出最大值和最小值
 
 	- 排序
@@ -40,7 +40,7 @@
 				if(min>=a[i]) min=a[i];
 			}
 	```
-#### [Demo3](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo3.java)
+#### [Demo3](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo3.java)
 - 定义一个长度为10的整型数组，从键盘为数组赋值，并求出数组的平均值
 ```
 		int [] a2=new int [10];
@@ -50,9 +50,9 @@
 		for (int i = 0; i < a2.length; i++) 
 			sum+=a2[i]; 						
 ```
-#### [Demo4](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo4.java)
+#### [Demo4](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo4.java)
 - 定义一个整型数组{55,45,5,44,2,6,56,15,4,12}，找出数组中的最大值和最小值
-#### [Demo5](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo5.java)
+#### [Demo5](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo5.java)
 - 现在定义如下的一个数组：int oldArr[]={1,3,4,5,0,0,6,6,0,5,4,7,6,7,0,5}
 - 要求将以上数组中不为0的值存入一个新的数组
 ```
@@ -73,7 +73,7 @@
 			}
 		}
 ```
-#### [Demo6](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo6.java)
+#### [Demo6](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo6.java)
 - 定义一个含有30个整型元素的数组，按顺序依次赋值为从2开始的偶数（2,4,6,8….）
 - 然后按照顺序每5个数求出一个平均值，将所得的平均值依次存放在另一个数组中并输出
 ```
@@ -94,10 +94,10 @@
 			}
 		}
 ```
-#### [Demo7](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo7.java)
+#### [Demo7](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo7.java)
 
 - 三个数字1,2,3组成一个三位数且每个数字只出现一次
 - 有多少种方法，试着输出
-#### [Demo8](https://github.com/ShenShizhe/java-programme/edit/main/java/day-6/Demo8.java)
+#### [Demo8](https://github.com/ShenShizhe/java-programme/edit/main/java/day-06/Demo8.java)
 - 根据不同的学生成绩划分不同的等级
 
