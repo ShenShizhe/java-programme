@@ -1,7 +1,7 @@
 # day-7
 
 ## 类和对象
-#### [Student](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Student.java)
+#### [Student](https://github.com/ShenShizhe/java-programme/blob/main/java/day-07/Student.java)
 
 - 类是描述现实中的学生，任何类都具有的属性和方法
 - 属性：类的固有特性，例如：学号、姓名、班级
@@ -83,24 +83,24 @@
 ```
 	类名 对象 =new 类名 ();
 ```
-#### [Book](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Book.java)
+#### [Book](https://github.com/ShenShizhe/java-programme/blob/main/java/day-07/Book.java)
 - 创建一个书籍类Book，添加属性书名、作者和价格，添加介绍书方法Introduce()，输出书名、作者和价格
 	- 添加卖书的方法sellBook(int n)，规定买10本书以下不打折，买大于等于10本书打9折，买超过20本书打8折
 	- 最后在main()中实例化一个Book对象，并调用两个方法分别介绍书籍和购买书籍
-#### [Rectangle](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Rectangle.java)
+#### [Rectangle](https://github.com/ShenShizhe/java-programme/blob/main/java/day-07/Rectangle.java)
 - 创建Rectangle类，添加属性width、height；
 	- 在Rectangle类中添加两种方法计算矩形的周长和面积(均使用有返回值无参的方法)；
 	- 最后在main()中实例化一个Rectangle对象，并调用两个方式计算一个矩形的周长和面积
-#### [Vehicle](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Vehicle.java)
+#### [Vehicle](https://github.com/ShenShizhe/java-programme/blob/main/java/day-07/Vehicle.java)
 - 请定义一个交通工具(Vehicle)的类，其中有: 
 	- 属性：速度(speed) 
 	- 方法:设置速度setSpeed(int speed)，加速speedUp(),减速speedDown()等等. 其中加速使速度+10，减速使速度-15。
 		- 最后在main()中实例化一个交通工具对象，并通过方法给它初始化speed的值，然后各进行1次加速和减速，并打印出最终的速度
-#### [Caculator](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Caculator.java)
+#### [Caculator](https://github.com/ShenShizhe/java-programme/blob/main/java/day-07/Caculator.java)
 - 新建一个类Caculator,这个类包含常见的加、减、乘、除运算
 	- 要求分别写四个方法，完成这四种运算。
 	- 在主函数中，输入两个数字，以及操作符号，根据符号进行计算
-#### [Function](https://github.com/ShenShizhe/java-programme/blob/main/java/day-7/Function.java)
+#### [Function](https://github.com/ShenShizhe/java-programme/blob/main/java/day-07/Function.java)
 - 新建一个类function,用于求一元二次方程ax2+bx+c=0的根
 	- 该类中包含一个方法root(int a,int b,int c)
 	- 一元二次方程的求根公式为:x=(-b±√(b^2-4ac))/2a
