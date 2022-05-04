@@ -29,7 +29,7 @@
 > - [封装和构造方法](https://github.com/ShenShizhe/java-programme/tree/main/java/day-08)
 ****
 >day-09 
-> - []()
+> - [类的继承](https://github.com/ShenShizhe/java-programme/tree/main/java/day-09)
 
 ****
 >project
