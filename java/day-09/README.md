@@ -1,5 +1,8 @@
 # day-09
 ## 类的继承
+#### [Circlr](https://github.com/ShenShizhe/java-programme/blob/main/java/day-09/Circlr.java)
+- 定义一个圆Circlr,成员变量包括圆周率PI和半径，其中圆周率PI定义为静态变量，成员方法包括求周长，求面积
+- 定义类[Test](https://github.com/ShenShizhe/java-programme/blob/main/java/day-09/Test.java)进行测试
 #### [Test](https://github.com/ShenShizhe/java-programme/blob/main/java/day-09/Test.java)
 - 静态变量与普通变量的却别：
   * 1.静态的变量能对所有的对象共享
