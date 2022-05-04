@@ -1,7 +1,8 @@
 # day-09
 ## 类的继承
-#### 
-
+#### [Test](https://github.com/ShenShizhe/java-programme/blob/main/java/day-09/Test.java)
+- 静态变量与普通变量的却别：
+- 
 
 
 继承
