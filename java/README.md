@@ -26,10 +26,10 @@
 > - [类和对象](https://github.com/ShenShizhe/java-programme/tree/main/java/day-07)
 ****
 >day-08 
-> - [封装和构造方法](https://github.com/ShenShizhe/java-programme/tree/main/java/day-08)
+> - [类的封装和构造](https://github.com/ShenShizhe/java-programme/tree/main/java/day-08)
 ****
 >day-09 
-> - []()
+> - [类的继承](https://github.com/ShenShizhe/java-programme/tree/main/java/day-09)
 
 ****
 >project
