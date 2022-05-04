@@ -2,8 +2,12 @@
 ## 类的继承
 #### [Test](https://github.com/ShenShizhe/java-programme/blob/main/java/day-09/Test.java)
 - 静态变量与普通变量的却别：
+  * 1.静态的变量能对所有的对象共享
+  * 2.静态变量可以直接通过类名访问 (t2.b++==Test.b++)
+  * 3.静态的方法也可以通过类名访问
+  * 4.只有静态方法只能调用静态变量（普通方法均可调用）
+#### [Person](https://github.com/ShenShizhe/java-programme/blob/main/java/day-09/Person.java)
 - 
-
 
 继承
 1.	定义一个Person类（属性有名字，年龄）,包含一个能输出各个属性值的方法showInfo（），定义一个Student类，学生类继承Person类。
