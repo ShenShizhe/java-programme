@@ -1,13 +1,12 @@
-//P69
 public class Cirle {
 	private double r;
 	private static double PI = Math.PI;
 	
-	//ÇóÃæ»ı
+	//æ±‚é¢ç§¯
 	public double area() {
 		return PI*r*r;
 	}
-	//ÇóÖÜ³¤
+	//æ±‚å‘¨é•¿
 	public double prime() {
 		return 2*PI*r;
 	}
@@ -15,7 +14,7 @@ public class Cirle {
 	public static void main(String[] args) {
 		Cirle cirle = new Cirle();
 		cirle.r = 8;
-		System.out.println("Ãæ»ı£º"+cirle.area());
-		System.out.println("ÖÜ³¤£º"+cirle.prime());
+		System.out.println("é¢ç§¯ï¼š"+cirle.area());
+		System.out.println("å‘¨é•¿ï¼š"+cirle.prime());
 	}
 }
