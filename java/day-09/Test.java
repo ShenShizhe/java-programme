@@ -1,11 +1,6 @@
-/* 1.¾²Ì¬µÄ±äÁ¿ÄÜ¶ÔËùÓĞµÄ¶ÔÏó¹²Ïí
- * 2.¾²Ì¬±äÁ¿¿ÉÒÔÖ±½ÓÍ¨¹ıÀàÃû·ÃÎÊ (t2.b++==Test.b++)
- * 3.¾²Ì¬µÄ·½·¨Ò²¿ÉÒÔÍ¨¹ıÀàÃû·ÃÎÊ
- * 4.Ö»ÓĞ¾²Ì¬·½·¨Ö»ÄÜµ÷ÓÃ¾²Ì¬±äÁ¿£¨ÆÕÍ¨·½·¨¾ù¿Éµ÷ÓÃ£©
- * */
 public class Test {
-//	int a;//ÆÕÍ¨±äÁ¿£¬»¥²»¸ÉÈÅ
-//	static int b;//¾²Ì¬±äÁ¿£¬±Ë´Ë¹²Ïí
+//	int a;//æ™®é€šå˜é‡ï¼Œäº’ä¸å¹²æ‰°
+//	static int b;//é™æ€å˜é‡ï¼Œå½¼æ­¤å…±äº«
 //	
 //	public static void print() {
 //		b++;
@@ -26,32 +21,32 @@ public class Test {
 //		t2.a++;
 //		t2.b++;
 //		
-//		Test.print();//ÀàÃûµ÷ÓÃ¾²Ì¬·½·¨
+//		Test.print();//ç±»åè°ƒç”¨é™æ€æ–¹æ³•
 //		
 //		
-//		System.out.println("t1µÄa:"+t1.a);
-//		System.out.println("t1µÄb:"+t1.b);
-//		System.out.println("t2µÄa:"+t2.a);
-//		System.out.println("t2µÄ b:"+t2.b);
+//		System.out.println("t1çš„a:"+t1.a);
+//		System.out.println("t1çš„b:"+t1.b);
+//		System.out.println("t2çš„a:"+t2.a);
+//		System.out.println("t2çš„ b:"+t2.b);
 //	}
 //2222222222	
 //	public static void main(String[] args) {
-//		Sparrow sparrow = new Sparrow ("ÂéÈ¸");
-//		Ostrich ostrich = new Ostrich ("ÍÒÄñ");
+//		Sparrow sparrow = new Sparrow ("éº»é›€");
+//		Ostrich ostrich = new Ostrich ("é¸µé¸Ÿ");
 //		
 //		sparrow.fly();
-//		//µ±¸¸ÀàµÄ·½·¨²»ÊÊÓÃÓÚ×ÓÀàµÄÊ±ºò£¬ĞèÒªÖØĞ´
+//		//å½“çˆ¶ç±»çš„æ–¹æ³•ä¸é€‚ç”¨äºå­ç±»çš„æ—¶å€™ï¼Œéœ€è¦é‡å†™
 //		ostrich.fly();
 //		
 //	}
 	
 //Vehicles
 	public static void main(String[] args) {
-		Car car = new Car("´óÖÚ","°×É«",8);
+		Car car = new Car("å¤§ä¼—","ç™½è‰²",8);
 		car.showCar();
 		car.run();
 		
-		Truck truck = new Truck("¶«·ç","ÂÌÉ«",12);
+		Truck truck = new Truck("ä¸œé£","ç»¿è‰²",12);
 		truck.showInfo();
 		truck.showtruck();
 		truck.run();
