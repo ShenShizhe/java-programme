@@ -85,7 +85,7 @@
 
 #### [Demo3](https://github.com/ShenShizhe/java-programme/blob/main/java/day-04/Demo3.java)
 - 编一个程序，输出所有的三位水仙花数，（如153=13+53+33）
-#### [Demo4](https://github.com/ShenShizhe/java-programme/blob/main/java/day-4/Demo4.java)
+#### [Demo4](https://github.com/ShenShizhe/java-programme/blob/main/java/day-04/Demo4.java)
 - 操场上有学生排队（人数少于200）
 	- 如果三个人一组则多1人
 	- 如果四个人一组则多2人
